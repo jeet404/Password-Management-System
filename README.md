@@ -3,8 +3,7 @@
 Password Management System Mini Project for Beginners using Node js, Express js and MongoDB
 
 ### Used Dependencies
-
-`"dependencies": {
+<code>"dependencies": {
     "bcryptjs": "^2.4.3",
     "body-parser": "^1.20.2",
     "ckeditor": "^4.12.1",
@@ -21,4 +20,4 @@ Password Management System Mini Project for Beginners using Node js, Express js 
     "morgan": "~1.10.0",
     "node-localstorage": "^2.2.1",
     "nodemon": "^2.0.22"
-  }`
+  }</code>
