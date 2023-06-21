@@ -6,5 +6,12 @@ body {
 }
 
 a {
-  color: #00b7ff;
+  color: #000000 !important;
 }
+
+.navbar-default {
+  background-color: #00b7ff !important;
+  border-color: #00b7ff !important;
+}
+
+/* written by Jeet404 */
